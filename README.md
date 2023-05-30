@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Sewa Menyewa Kapal Oceanic Voyager</title>
