@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>Sewa Menyewa Kapal Oceanic Voyager</title>
-   
     <style>
         /* Gaya CSS untuk header */
 header {
